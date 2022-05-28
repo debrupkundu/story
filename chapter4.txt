@@ -1,0 +1,3 @@
+High ping
+Low Current FPS 
+Network Problem
